@@ -23,6 +23,7 @@
  
 </div>
 <input type="submit" value="submit" />
+<label>Result :</label>
 </form>
 </body>
 </html>
