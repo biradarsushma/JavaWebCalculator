@@ -37,7 +37,7 @@
    <configuration>
   	 <url>http://35.202.21.121:7777/manager/text</url>
   	 <server>TomcatServer</server>
-  	 <path>/WebApps</path>
+  	 <path>/WebApp</path>
    </configuration>
  </plugin>
     <plugin>
